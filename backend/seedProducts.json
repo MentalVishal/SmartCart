@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Aashirvaad Atta 5 kg",
+    "category": "Atta-Chawal",
+    "price": 275,
+    "mrp": 310,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/i4K3ogswKUVv1DJ6sIsaVM6HjWufgaIM6twt65Lz-z4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnF1aWsuY29t/L2Nkbi9zaG9wL2Zp/bGVzL1NRMTAwMjc1/X0ZPUF84OWMwOGM1/ZC00NjQwLTQ2MTMt/YTFlZC04NTU1MjJk/YWQ2MzkuanBnP3Y9/MTc3Njg0NTQwOCZ3/aWR0aD0xNDQ1"
+  },
+  {
+    "name": "Fortune Chakki Atta 5 kg",
+    "category": "Atta-Chawal",
+    "price": 260,
+    "mrp": 295,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/3WVKQITGRikixYcMOcf_9jvt6oKcdxkzNf1KEkpbqi4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFza2V0aHVudC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDcvZm9ydHVu/ZS1jaGFra2ktZnJl/c2gtYXR0YS01LWtn/LTAtMjAyMTAzMTAu/anBn"
+  },
+  {
+    "name": "Pillsbury Gold Atta 5 kg",
+    "category": "Atta-Chawal",
+    "price": 285,
+    "mrp": 320,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/cc7-tJIR48WmjADlSBSnERBZ9Pv5X1WYmGVnLGOhn6c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFhUUF3VVhwaEwu/anBn"
+  },
+  {
+    "name": "India Gate Basmati Rice 1 kg",
+    "category": "Atta-Chawal",
+    "price": 145,
+    "mrp": 165,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/Wua5wu9WCBROFE5Bi8JBoGRa-Y1O7yklm9JYXHbW1Fo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aWlt/Zy50aXN0YXRpYy5j/b20vZnAvMS8wMDcv/MTQzL2luZGlhLWdh/dGUtY2xhc3NpYy1i/YXNtYXRpLXJpY2Ut/MWtnLTgyMC5qcGc"
+  },
+  {
+    "name": "Daawat Rozana Rice 5 kg",
+    "category": "Atta-Chawal",
+    "price": 350,
+    "mrp": 395,
+    "stock": 12,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/7rorB95Ncu9JctFmjHv2lUu3Ik7wCvwtKxRbmArJmeI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4y/LmNsZXZ1cC5pbi8y/OTk1MTAvMTMxMTIw/MjRfMTgyOTUyX1JF/Qy0xNzMxNTAyODYw/MjM2LmpwZWc_d2lk/dGg9NjAwJmZvcm1h/dD13ZWJw"
+  },
+  {
+    "name": "Fortune Biryani Special Rice 1 kg",
+    "category": "Atta-Chawal",
+    "price": 125,
+    "mrp": 145,
+    "stock": 18,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/DmUQRUFCfAMvJdLfRElOLbMkPHRLvitJKyO_qTK5VZY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFvSGNkR3U0WUwu/anBn"
+  },
+  {
+    "name": "Tata Sampann Brown Rice 1 kg",
+    "category": "Atta-Chawal",
+    "price": 110,
+    "mrp": 130,
+    "stock": 10,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/PYm90qMyJQq3P6sR0ZgQm5OMg1nHTd00EtOamCS69Jc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdG9y/YWdlLmdvb2dsZWFw/aXMuY29tL2FkZGJs/ZS1pbWFnZXMtc3Ev/cHJvZHVjdHMvUHRT/N2tuOEZLWFNQYnlQ/bzJ2MEsveDJ5b3NE/RG5PTnlwb2RIWEFG/b1YvZnJvbnRfeDJ5/b3NERG5PTnlwb2RI/WEFGb1ZfOTAweDkw/MC5qcGVn"
+  },
+  {
+    "name": "Kohinoor Charminar Rice 5 kg",
+    "category": "Atta-Chawal",
+    "price": 390,
+    "mrp": 440,
+    "stock": 10,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/MbG0Wi_RpvuBZqXI6RwkKF-g2goAtMTnZwmZxedkMUQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ydWtt/aW5pbTIuZmxpeGNh/cnQuY29tL2ltYWdl/LzgwMC84MDAva2Jx/dTRjdzAvcmljZS92/L2Ivay81LWNoYXJt/aW5hci1icm93bi1y/aWNlLTUta2ctYnJv/d24tYmFnLWJhc21h/dGktcmljZS1rb2hp/bm9vci1vcmlnaW5h/bC1pbWFmdGY0Zmpj/ZmZxanE3LmpwZWc_/cT05MA"
+  },
+  {
+    "name": "Sooji 1 kg",
+    "category": "Atta-Chawal",
+    "price": 55,
+    "mrp": 65,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/5hzxVAoP0SjbF0g8Dex4se4xcWxKcLqCWh_6qLPPhss/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFUUDB4SWhKY0wu/anBn"
+  },
+  {
+    "name": "Besan 1 kg",
+    "category": "Atta-Chawal",
+    "price": 95,
+    "mrp": 110,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/YaU3Rrl6_QPBp8HrJhIgoYFfIHsL0lBCJMYYlbSsOX8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTFmQVlYbnV3Nkwu/anBn"
+  },
+  {
+    "name": "Patanjali Maida 1 kg",
+    "category": "Atta-Chawal",
+    "price": 45,
+    "mrp": 55,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/rBo71LYps2cPeFfa3mg1lc6jOD9_vWwwRtylfg-cF4w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vbmxp/bmVidXltZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjMv/MDMvTUFJREEtMS1L/Ry5qcGc"
+  },
+  {
+    "name": "Poha 1 kg",
+    "category": "Atta-Chawal",
+    "price": 65,
+    "mrp": 75,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/GH77et5ULmZd2UgVnZCXOI9NONBenAtWdHU_4hn9Joo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bmlja21pY3MuY29t/L2Nkbi9zaG9wL2Zp/bGVzL2Zyb250X2M3/Y2ZjMTY5LWU5ZWUt/NDY0NS04NThkLTdl/M2MwNDI4MzA0ZS5w/bmc_dj0xNzQ5MTg5/ODMwJndpZHRoPTMw/MDA"
+  },
+  {
+    "name": "Tata Sampann Toor Dal 1 kg",
+    "category": "Dal",
+    "price": 175,
+    "mrp": 199,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/YVCtKoQ92QOolGlZxMElo3Amd-KaG1ONv4HdA4YTcUQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcml0/aHZpZW50ZXJwcmlz/ZXMuY28uaW4vY2Ru/L3Nob3AvZmlsZXMv/NjQ3Mjk4MDBfMGUx/MF80ODliX2JjZWRf/OWY1MGM3NzU3NDNi/anBndHMxNzMzODI4/MDA3XzIzYTAyMTZh/LWFkMGMtNDI0YS05/ZjQyLTkwNmU2OTFj/MDllNy5qcGc_dj0x/NzQ2ODkwOTA5Jndp/ZHRoPTE0NDU"
+  },
+  {
+    "name": "Tata Sampann Moong Dal 1 kg",
+    "category": "Dal",
+    "price": 145,
+    "mrp": 165,
+    "stock": 18,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/pL_VLqNHSjRCTu-Z9BUwzblx-zvdarxh8jZ_uAnAuYA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFpOXVmdTBSakwu/anBn"
+  },
+  {
+    "name": "Tata Sampann Chana Dal 1 kg",
+    "category": "Dal",
+    "price": 95,
+    "mrp": 115,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/XVgdjwvD792HIA-Y6urTVRX7PLRA4ubXzf44twYTxCo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTEyUGFUUVJ0Vkwu/anBn"
+  },
+  {
+    "name": "Tata Sampann Masoor Dal 1 kg",
+    "category": "Dal",
+    "price": 110,
+    "mrp": 130,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/dcrfgGw9SGjPbldqY7CFasEgpXH1FRsG4p9jQ5PsbuI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnF1aWsuY29t/L2Nkbi9zaG9wL2Zp/bGVzL1NRMTA1ODI4/X0ZPUF9jNzQ0OTNh/ZS1mNWEwLTQzY2Et/YjJmZS1kNWRlMGQz/ZGE4ZjIuanBnP3Y9/MTc3Njg0NTQ4NyZ3/aWR0aD0xNDQ1"
+  },
+  {
+    "name": "Tata Sampann Urad Dal 1 kg",
+    "category": "Dal",
+    "price": 145,
+    "mrp": 165,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/gKsN39r3smvJPuf734UUdIweSL6lHq_t6vmgF94xe60/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aGVk/ZXNpZm9vZC5jb20v/bWVkaWEvVGF0YSUy/MFNhbXBhbm4lMjBV/bnBvbGlzaGVkJTIw/VXJhZCUyMERhbCUy/MC0lMjBTcGxpdCwl/MjAxJTIwa2ctMS53/ZWJw"
+  },
+  {
+    "name": "Kabuli Chana 1 kg",
+    "category": "Dal",
+    "price": 120,
+    "mrp": 140,
+    "stock": 18,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/hl-UUyngE4mYkuxAAWkgYbqQWWvOL5lt_6PnfTT1Tmw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjFsTmUzd1N4UEwu/anBn"
+  },
+  {
+    "name": "Rajma 1 kg",
+    "category": "Dal",
+    "price": 135,
+    "mrp": 155,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/_1s5Q0tATe5BypShVxiSaHAAYYat3mQHUEgAB-qzWOQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/ODFPdTdaYVF2K0wu/anBn"
+  },
+  {
+    "name": "Kala Chana 1 kg",
+    "category": "Dal",
+    "price": 90,
+    "mrp": 105,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/qaSK8PPI8Sqn8VDEXkii2dpFF8VA7aYw1tCywXn3-Kw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NjEyUmJGZzZ2b0wu/anBn"
+  },
+  {
+    "name": "Fortune Chana Dal 1 kg",
+    "category": "Dal",
+    "price": 100,
+    "mrp": 120,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/FE4b2TXLbkTqixw9O35-YLyXZqTYB8GqKwr9ImX1yQ0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9rYWxp/bmdhc3VwZXJtYXJ0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8wOS9Gb3J0/dW5lLUNoYW5hLURh/bC0xLWtnLnBuZw"
+  },
+  {
+    "name": "Fortune Moong Dal 1 kg",
+    "category": "Dal",
+    "price": 140,
+    "mrp": 160,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/vNVPHlomSjEW40y9n1S-yr5Lqx2FOFFF0jQ9TbKI5XM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbm5h/Y2hpLmZyL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA3L0JV/WS1GT1JUVU5FLU1P/T05HLU1VTkctREFM/LTFLZy1GUkFOQ0Ut/RVVST1BFLUdFUk1B/TlktTkVUSEVSTEFO/RC1BTkQtQkVMR0lV/TS1PTkxJTkUuanBn"
+  },
+  {
+    "name": "Organic Tattva Green Moong 1 kg",
+    "category": "Dal",
+    "price": 130,
+    "mrp": 150,
+    "stock": 12,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/27P15Iz0L6FlCq3AbshEgnYfroSEkmt9VTm5J_GEJZs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFxUkZnQnpST0wu/anBn"
+  },
+  {
+    "name": "Tata Sampann Masoor Malka 1 kg",
+    "category": "Dal",
+    "price": 115,
+    "mrp": 135,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🫘",
+    "img": "https://imgs.search.brave.com/dcrfgGw9SGjPbldqY7CFasEgpXH1FRsG4p9jQ5PsbuI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnF1aWsuY29t/L2Nkbi9zaG9wL2Zp/bGVzL1NRMTA1ODI4/X0ZPUF9jNzQ0OTNh/ZS1mNWEwLTQzY2Et/YjJmZS1kNWRlMGQz/ZGE4ZjIuanBnP3Y9/MTc3Njg0NTQ4NyZ3/aWR0aD0xNDQ1"
+  },
+  {
+    "name": "Fortune Sunflower Oil 1 L",
+    "category": "Oil-Ghee",
+    "price": 145,
+    "mrp": 165,
+    "stock": 30,
+    "unit": "btl",
+    "emoji": "🛢️",
+    "img": "https://imgs.search.brave.com/bmLpgZ1uJ7-SJtproMrmwCUEUaeOax_Rp5lx8Iu24xM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cXVpY2twYW50cnku/aW4vY2RuL3Nob3Av/cHJvZHVjdHMvZm9y/dHVuZS1zdW5mbG93/ZXItcmVmaW5lZC1v/aWwtMS1sLXF1aWNr/LXBhbnRyeS5qcGc_/dj0xNzEwNTM4MDA5/JndpZHRoPTEyMTQ"
+  },
+  {
+    "name": "Fortune Soyabean Oil 1 L",
+    "category": "Oil-Ghee",
+    "price": 135,
+    "mrp": 155,
+    "stock": 25,
+    "unit": "btl",
+    "emoji": "🛢️",
+    "img": "https://imgs.search.brave.com/4jzizg3eZWaBUTN94qefZvs8AubrjalyICaTNOXL5bo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFza2V0aHVudC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDEvZm9ydHVu/ZS1yZWZpbmVkLXNv/eWFiZWFuLW9pbC0x/LWwtMC0yMDIwMTEx/Ny5qcGc"
+  },
+  {
+    "name": "Dhara Mustard Oil 1 L",
+    "category": "Oil-Ghee",
+    "price": 155,
+    "mrp": 175,
+    "stock": 20,
+    "unit": "btl",
+    "emoji": "🛢️",
+    "img": "https://imgs.search.brave.com/1b5sMvA2aEVwWCiIHI6q__6djXja6uKFwixo6f-oc88/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/Lmppb21hcnRqY3Au/Y29tL3YyL2NhdGFs/b2ctY2xvdWQvamlv/bWFyL3QucmVzaXpl/KHc6NTQwKS9pbWFn/ZXMvb3RoZS9lZ3Vy/aGsvLmovcGcvZDc2/MjAyYjJhNGYyZjlm/ZjlmMzZiOWRhYjEy/Njg4YTNkaGFyYS1r/YWNoaS1naGFuaS1t/dXN0YXJkLW9pbC0x/LWwtMC0yMDIyMDEw/Ny5qcGcuNmVkMWUy/Yjc1My5qcGc"
+  },
+  {
+    "name": "Engine Kachi Ghani Mustard Oil 1 L",
+    "category": "Oil-Ghee",
+    "price": 175,
+    "mrp": 195,
+    "stock": 18,
+    "unit": "btl",
+    "emoji": "🛢️",
+    "img": "https://imgs.search.brave.com/zgE0gfgTXQB3D_ohw-k6_bgnVSjjA1wudZGxYAR8Zsc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFLYzZiWlVjY0wu/anBn"
+  },
+  {
+    "name": "Saffola Gold Oil 1 L",
+    "category": "Oil-Ghee",
+    "price": 185,
+    "mrp": 210,
+    "stock": 15,
+    "unit": "btl",
+    "emoji": "🛢️",
+    "img": "https://imgs.search.brave.com/zGdZCfZ-2HIi04hge1XQ1FaV6ZUGYEE5OEgIc3Dhh6U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFub25zaG9w/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wMy9TYWZm/b2xhLUdvbGQtT2ls/LmpwZw"
+  },
+  {
+    "name": "Figaro Olive Oil 500 ml",
+    "category": "Oil-Ghee",
+    "price": 450,
+    "mrp": 520,
+    "stock": 8,
+    "unit": "btl",
+    "emoji": "🫒",
+    "img": "https://imgs.search.brave.com/0vy2CCLsldozg4GneRphNc4Ql2l696w_UH2NL_iIpLI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9maWdh/cm9vbGl2ZW9pbC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjMvMDkvRmlnYXJv/LU1QTy1UaW4tNTAw/LW1sLUZyb250LTEu/d2VicA"
+  },
+  {
+    "name": "Amul Pure Ghee 1 L",
+    "category": "Oil-Ghee",
+    "price": 620,
+    "mrp": 670,
+    "stock": 12,
+    "unit": "btl",
+    "emoji": "🧈",
+    "img": "https://imgs.search.brave.com/luorXDuOLyu-OfI6cNErjhvrMFwhIyMC3nlPp1NDUYc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubWFuZ28tcHJv/ZC5zaWFtbWFrcm8u/Y2xvdWQvU09VUkNF/LzVkOGZlYjA4MmQ4/ZDRkNjFhMzU0Y2Rm/MDE3NTEwYjA0P2Vv/LWltZy5yZXNpemU9/dy8xMDgwJmVvLWlt/Zy5mb3JtYXQ9d2Vi/cA"
+  },
+  {
+    "name": "Mother Dairy Ghee 1 L",
+    "category": "Oil-Ghee",
+    "price": 610,
+    "mrp": 660,
+    "stock": 10,
+    "unit": "btl",
+    "emoji": "🧈",
+    "img": "https://imgs.search.brave.com/Y3eKJGqjA4fXXxH1BFLnMRGqr5g7DjGAi2GM9ecqpmE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmJhc3NldHMuY29t/L21lZGlhL3VwbG9h/ZHMvcC9sLzMxMDcx/NV8xLW1vdGhlci1k/YWlyeS1wdXJlLWNv/dy1naGVlLmpwZw"
+  },
+  {
+    "name": "Patanjali Cow Ghee 1 L",
+    "category": "Oil-Ghee",
+    "price": 590,
+    "mrp": 640,
+    "stock": 10,
+    "unit": "btl",
+    "emoji": "🧈",
+    "img": "https://imgs.search.brave.com/qvo3k_I4D7vzX0gHZi5ImY_bbiWIkQKkyS3UodMz8-A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaW1r/aGFuZC5jb20vY2Ru/L3Nob3AvZmlsZXMv/MzAwMDI0MDctMl84/LXBhdGFuamFsaS1j/b3ctZ2hlZS5qcGc_/dj0xNzc2ODQzMDA3/JndpZHRoPTE5NDY"
+  },
+  {
+    "name": "Gowardhan Ghee 1 L",
+    "category": "Oil-Ghee",
+    "price": 640,
+    "mrp": 695,
+    "stock": 8,
+    "unit": "btl",
+    "emoji": "🧈",
+    "img": "https://imgs.search.brave.com/b3pJj-dkIQj2IIvf0Jgqll_r74CROfRdxZ5D2Cf9Y2Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vYWRkMmJh/Zy5pbi93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNC8wMS9Hb3dh/cmRoYW4tUHVyZS1D/b3ctR2hlZS01MDAt/bWwtSmFyLTIuanBn/P3Jlc2l6ZT01MDAs/NTAwJnNzbD0x"
+  },
+  {
+    "name": "Everest Turmeric Powder 100 g",
+    "category": "Masala",
+    "price": 38,
+    "mrp": 45,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🌶️",
+    "img": "https://imgs.search.brave.com/9hifzLdAbpTh0lqb2E5E92pn3I7excUZ-dEjmTGKHys/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnF1aWsuY29t/L2Nkbi9zaG9wL2Zp/bGVzL1NRMTA3NTUz/X2JjN2U2MThjLTQ0/OWYtNDhmYi05Yzc1/LTdhMzdjMGRjODAx/MS5qcGc_dj0xNzU0/MzIzMDgxJndpZHRo/PTE0NDU"
+  },
+  {
+    "name": "MDH Kashmiri Mirch 100 g",
+    "category": "Masala",
+    "price": 95,
+    "mrp": 110,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌶️",
+    "img": "https://imgs.search.brave.com/ONw269QzYnRgLj1hskyqdC4GBAVtTx7Prn9JZQ0jCZs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmlyYWFuYS5jb20v/Y2RuL3Nob3AvcHJv/ZHVjdHMvTURIa2Fz/aG1pcmltaXJjaF8x/MDI0eDEwMjQuanBn/P3Y9MTYxOTg1MDgw/Mw"
+  },
+  {
+    "name": "Everest Red Chilli Powder 100 g",
+    "category": "Masala",
+    "price": 55,
+    "mrp": 65,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🌶️",
+    "img": "https://imgs.search.brave.com/XPT-jDVdiN2qmqidZ7ib7EhY8Ez-j7N6N84VcyElRZ4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iZjFh/ZjIuYWtpbm9uY2xv/dWRjZG4uY29tL3By/b2R1Y3RzLzIwMjQv/MTIvMjgvODAyMTYv/N2RhZjZlMzItYjE2/My00YTBlLWJhYzct/NTYxZjgwMjJlYmFj/X3NpemUzODQwX2Ny/b3BDZW50ZXIuanBn"
+  },
+  {
+    "name": "MDH Garam Masala 100 g",
+    "category": "Masala",
+    "price": 85,
+    "mrp": 99,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌶️",
+    "img": "https://imgs.search.brave.com/-HyMNu2I0lCVev3fS8qVhTGebW9XgpSMHj1YdT_aHPg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFmY2dlR3l4bkwu/anBn"
+  },
+  {
+    "name": "Everest Kitchen King 100 g",
+    "category": "Masala",
+    "price": 75,
+    "mrp": 88,
+    "stock": 18,
+    "unit": "pkt",
+    "emoji": "🌶️",
+    "img": "https://imgs.search.brave.com/RTL7a1DOB05Wu0946b6qiHwHl0eIMt7bpfcotbergjI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFub25zaG9w/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wNi9FdmVy/ZXN0LUtpdGNoZW4t/S2luZy1NYXNhbGEt/MTAwLWcuanBn"
+  },
+  {
+    "name": "Catch Coriander Powder 100 g",
+    "category": "Masala",
+    "price": 42,
+    "mrp": 50,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌿",
+    "img": "https://imgs.search.brave.com/YiJpKm4kLitQPwuD-5ZTb712kxMgPFxbao0eHHr33Uk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDF0bmZEODFYZEwu/anBn"
+  },
+  {
+    "name": "Catch Cumin Powder 100 g",
+    "category": "Masala",
+    "price": 65,
+    "mrp": 75,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🌿",
+    "img": "https://imgs.search.brave.com/lwSlRso0QWe0lW4GHbiJxV9qrSvGVasteefFO4Mw4Pw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFCV0xReTQrOUwu/anBn"
+  },
+  {
+    "name": "Everest Chaat Masala 100 g",
+    "category": "Masala",
+    "price": 45,
+    "mrp": 55,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌶️",
+    "img": "https://imgs.search.brave.com/zPafoeMhvw39zYfYKlOmPIBw7HRbV66jySN6Pk4kCco/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3BpY2V2aWxsYWdl/LmV1L2Nkbi9zaG9w/L3Byb2R1Y3RzL2V2/ZXJlc3QtaW5kaWFu/LWRlZmF1bHQtdGl0/bGUtZXZlcmVzdC1j/aGFhdC1tYXNhbGEt/MTAwZ20tMjU2NDQ2/MDA4ODU0MDIuanBn/P3Y9MTc1OTczMTU2/NyZ3aWR0aD0xOTQ2"
+  },
+  {
+    "name": "MDH Chana Masala 100 g",
+    "category": "Masala",
+    "price": 55,
+    "mrp": 65,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🌶️",
+    "img": "https://imgs.search.brave.com/QRVB27RDIsajtvr8EgY7xTXcc0tPUBSfw-AzZt326J4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5kaWFub25zaG9w/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyMC8wNi9NREgt/Q2hhbmEtTWFzYWxh/LTEwMGcuanBn"
+  },
+  {
+    "name": "Catch Black Pepper Powder 50 g",
+    "category": "Masala",
+    "price": 75,
+    "mrp": 90,
+    "stock": 12,
+    "unit": "pkt",
+    "emoji": "🌶️",
+    "img": "https://imgs.search.brave.com/Aq97Oe50KHbyuk8LmaHfGYycKydmx7aqQg_TrQSwmDg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/emVwdG9ub3cuY29t/L3Byb2R1Y3Rpb24v/aWstc2VvL3RyOnct/NDcwLGFyLTEwMDAt/MTAwMCxwci10cnVl/LGYtYXV0byxxLTQw/LGRwci0yL2Ntcy9w/cm9kdWN0X3Zhcmlh/bnQvM2M4Mjg1Yzgt/NmUwZC00ZjRkLThk/MGMtZDY1MDI1NTVh/MjVlL0NhdGNoLUJs/YWNrLVBlcHBlci1Q/b3dkZXIuanBlZw"
+  },
+  {
+    "name": "Tata Salt 1 kg",
+    "category": "Salt-Sugar",
+    "price": 28,
+    "mrp": 32,
+    "stock": 40,
+    "unit": "pkt",
+    "emoji": "🧂",
+    "img": "https://imgs.search.brave.com/TdLibEmkmmixhOnsZjqDLMIU7RdU8beQ9aDRwqVuf-8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4t/Y21pbWdvcHQtZHlu/LmNpdHltYWxsLmxp/dmUvY21pbWdvcHQt/YzBlZWYzZjctYzQ2/NS00YmJhLWEzMzMt/N2M0OGJkYWYxODli/LndlYnA_dz05NjAm/cT03NQ"
+  },
+  {
+    "name": "Tata Salt Lite 1 kg",
+    "category": "Salt-Sugar",
+    "price": 50,
+    "mrp": 58,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🧂",
+    "img": "https://imgs.search.brave.com/T7LCfT5IWHAZQIij7Mfikwiy4lVZOcvDffDdn9KaUIc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/dGF0YW51dHJpa29y/bmVyLmNvbS9jZG4v/c2hvcC9maWxlcy83/NDQzMDQxLTFfVGF0/YV9TYWx0X0xpdGVf/c2FsdF8xX0tnX0ZP/UC5wbmc_dj0xNzM3/NTQ2NzYxJndpZHRo/PTE5NDY"
+  },
+  {
+    "name": "Madhur Sugar 1 kg",
+    "category": "Salt-Sugar",
+    "price": 48,
+    "mrp": 56,
+    "stock": 35,
+    "unit": "pkt",
+    "emoji": "🍬",
+    "img": "https://imgs.search.brave.com/7FSHDLb67R1i_U56r4eDj2Iggb1jq3sYLqugjxNbzPY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFVRUZ0d1AteUwu/anBn"
+  },
+  {
+    "name": "Dhampur Green Sugar 1 kg",
+    "category": "Salt-Sugar",
+    "price": 55,
+    "mrp": 65,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🍬",
+    "img": "https://imgs.search.brave.com/9oC7asgn4yrXzpXbHibb_FJvi4yPk53a3noItdsy3cI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZGhhbXB1cmdyZWVu/LmNvbS9jZG4vc2hv/cC9maWxlcy9EZW1l/cmFyYVN1Z2FyX0Zp/bmUtR3JhaW5fLTFL/R18yLnBuZz92PTE3/ODgyNjE5MDImd2lk/dGg9MTQ0NQ"
+  },
+  {
+    "name": "Tata Tea Gold 500 g",
+    "category": "Tea-Coffee",
+    "price": 290,
+    "mrp": 325,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🍵",
+    "img": "https://imgs.search.brave.com/ZeScPHypFGi7mxao0soGCJ3VRF41PqOHsDNGkLXXbAE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly91dmth/cnQuY29tL3N0YXRp/Yy91cGxvYWRzL3By/b2R1Y3RzL3RhdGEt/dGVhLWdvbGQtNTAw/Zy0xNzY3NjkxNjI4/LndlYnA_dj0xNzY3/NjkxNjI3"
+  },
+  {
+    "name": "Brooke Bond Red Label Tea 500 g",
+    "category": "Tea-Coffee",
+    "price": 260,
+    "mrp": 295,
+    "stock": 18,
+    "unit": "pkt",
+    "emoji": "🍵",
+    "img": "https://imgs.search.brave.com/mowPf_ZRw_5I60HLa_AF0nBIv55woOwfmFk7YlzzOZs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly81Lmlt/aW1nLmNvbS9kYXRh/NS9TRUxMRVIvRGVm/YXVsdC8yMDI0LzEv/Mzc5MDI3MDgwL1hD/L0VZL09XLzEzNDUz/MDE2Mi81MDAtZy1y/ZWQtbGFiZWwtdGVh/LTEwMDB4MTAwMC5q/cGc"
+  },
+  {
+    "name": "Tata Sampann Toor Dal 1 kg",
+    "category": "Dal-Pulses",
+    "price": 175,
+    "mrp": 199,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🥣",
+    "img": "https://imgs.search.brave.com/YVCtKoQ92QOolGlZxMElo3Amd-KaG1ONv4HdA4YTcUQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcml0/aHZpZW50ZXJwcmlz/ZXMuY28uaW4vY2Ru/L3Nob3AvZmlsZXMv/NjQ3Mjk4MDBfMGUx/MF80ODliX2JjZWRf/OWY1MGM3NzU3NDNi/anBndHMxNzMzODI4/MDA3XzIzYTAyMTZh/LWFkMGMtNDI0YS05/ZjQyLTkwNmU2OTFj/MDllNy5qcGc_dj0x/NzQ2ODkwOTA5Jndp/ZHRoPTE0NDU"
+  },
+  {
+    "name": "Tata Sampann Moong Dal 1 kg",
+    "category": "Dal-Pulses",
+    "price": 160,
+    "mrp": 185,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🥣",
+    "img": "https://imgs.search.brave.com/PFOr_MgQLS6U3Q2UYyYlUiME5u86KS_ruOaH7HeYOBM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFza2V0aHVudC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDcvdGF0YS1z/YW1wYW5uLWhpZ2gt/cHJvdGVpbi11bnBv/bGlzaGVkLW1vb25n/LWRhbC0xLWtnLTAt/MjAyMTAzMDMuanBn"
+  },
+  {
+    "name": "Tata Sampann Chana Dal 1 kg",
+    "category": "Dal-Pulses",
+    "price": 115,
+    "mrp": 135,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🥣",
+    "img": "https://imgs.search.brave.com/XVgdjwvD792HIA-Y6urTVRX7PLRA4ubXzf44twYTxCo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTEyUGFUUVJ0Vkwu/anBn"
+  },
+  {
+    "name": "Tata Sampann Urad Dal Split 1 kg",
+    "category": "Dal-Pulses",
+    "price": 165,
+    "mrp": 190,
+    "stock": 18,
+    "unit": "pkt",
+    "emoji": "🥣",
+    "img": "https://imgs.search.brave.com/QdAGvQEof77Pm89kju9C1e55o9D5sLHwU-ElL6kHpvw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vVGF0/YS1TYW1wYW5uLVVu/cG9saXNoZWQtVXJh/ZC1EYWwtU3BsaXQt/MWtnXzI0ODRhMDdj/LWZkY2QtNDRkMC04/NDg4LWQ2MGJjZWE4/NDdlMS44MmY4Y2E5/ZTg0YzQ0MDU5MTli/MzMyMTBmMDMyMTZi/Mi5qcGVnP29kbkhl/aWdodD02NDAmb2Ru/V2lkdGg9NjQwJm9k/bkJnPUZGRkZGRg"
+  },
+  {
+    "name": "Tata Sampann Masoor Dal 1 kg",
+    "category": "Dal-Pulses",
+    "price": 120,
+    "mrp": 140,
+    "stock": 22,
+    "unit": "pkt",
+    "emoji": "🥣",
+    "img": "https://imgs.search.brave.com/jqzsUWNfupM6KfjXm_oBahA3PvlgkLoBuyS6liaMI-U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kdWth/YW4uYi1jZG4ubmV0/LzcwMHg3MDAvd2Vi/cC9tZWRpYS84MmEy/NDUxYi00M2M0LTRl/NDYtODI4Yi05N2Jh/MzcxZjBiYjIucG5n"
+  },
+  {
+    "name": "Fortune Kabuli Chana 1 kg",
+    "category": "Dal-Pulses",
+    "price": 170,
+    "mrp": 195,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🧆",
+    "img": "https://imgs.search.brave.com/hzRAQQSBzmwlAk_Z-xIWHNFcsnmnef1AMEdD4cJ36uk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbm5h/Y2hpLmZyL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA3L0JV/WS1GT1JUVU5FLVdI/SVRFLUNISUNLUEVB/Uy1LQUJVTEktQ0hB/TkElRTIlODAlOTMx/S2ctRlJBTkNFLUVV/Uk9QRS1HRVJNQU5Z/LU5FVEhFUkxBTkQt/QU5ELUJFTEdJVU0t/T05MSU5FLmpwZw"
+  },
+  {
+    "name": "Fortune Rajma Chitra 1 kg",
+    "category": "Dal-Pulses",
+    "price": 180,
+    "mrp": 205,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🧆",
+    "img": "https://imgs.search.brave.com/XU7-HOIacaMFijjIiOMDrRXlx5ANStk8XZHunvXBwDA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hbm5h/Y2hpLmZyL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI2LzA3L0JV/WS1GT1JUVU5FLVJF/RC1LSURORVktQkVB/TlMtUkFKTUEtQ0hJ/VFJBLTUwMGctRlJB/TkNFLUVVUk9QRS1H/RVJNQU5ZLU5FVEhF/UkxBTkQtQU5ELUJF/TEdJVU0tT05MSU5F/LmpwZw"
+  },
+  {
+    "name": "Fortune Soya Badi Chunks 200 g",
+    "category": "Dal-Pulses",
+    "price": 45,
+    "mrp": 55,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🥣",
+    "img": "https://imgs.search.brave.com/PJHw6KEam8FWV3cQC4mR9_AxPoTzhSakJ9ELFo_iecg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cXVpY2twYW50cnku/aW4vY2RuL3Nob3Av/cHJvZHVjdHMvZm9y/dHVuZS1zb3lhLWNo/dW5rLTIwMC1nLXF1/aWNrLXBhbnRyeS5q/cGc_dj0xNzEwNTM4/MDY2JndpZHRoPTEy/MTQ"
+  },
+  {
+    "name": "Aashirvaad Shudh Chakki Atta 5 kg",
+    "category": "Atta-Flours",
+    "price": 245,
+    "mrp": 280,
+    "stock": 40,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/naLY2jvqYHR9V4R9qzjKSPVcV6UFqpPc-oB5BBibX5g/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YWxsaG9tZXByb2R1/Y3QuaW4vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMTEvQWFz/aGlydmFhZC1TaHVk/aC1DaGFra2ktQXR0/YS01S2cuanBn"
+  },
+  {
+    "name": "Aashirvaad Select Sharbati Atta 5 kg",
+    "category": "Atta-Flours",
+    "price": 310,
+    "mrp": 350,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/yX5pAZKpBpTFvLVWWigWXqVFzkGYJW_PGJT_GESm7dQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hYXBr/YWJhemFyLmNvL19u/ZXh0L2ltYWdlP3Vy/bD1odHRwczovL2lt/YWdlLmFhcGthYmF6/YXIuY28vcHJvZHVj/dC80OTQvMTY5NzQz/MzQ3NDY0OS5wbmc_/dHlwZT13ZWJwJndp/ZHRoPTYwMCZ3PTM4/NDAmcT03NQ"
+  },
+  {
+    "name": "Fortune Besan 1 kg",
+    "category": "Atta-Flours",
+    "price": 105,
+    "mrp": 125,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/dYkGvbu393L9IofLeqinkMjmC4uvnrs9Bn3EwbVQwVY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hYXBr/YWJhemFyLmNvL19u/ZXh0L2ltYWdlP3Vy/bD1odHRwczovL2lt/YWdlLmFhcGthYmF6/YXIuY28vcHJvZHVj/dC8xNjQyMi8xNzYy/NDExMjQ2ODU4LnBu/Zz90eXBlPXdlYnAm/d2lkdGg9NjAwJnc9/Mzg0MCZxPTc1"
+  },
+  {
+    "name": "Fortune Maida 1 kg",
+    "category": "Atta-Flours",
+    "price": 55,
+    "mrp": 65,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/001diN7SoFa5WwNG2XCHXnsOKuN5C9tj5oGEOCVT8ac/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzE5TjhKdk5saUwu/anBn"
+  },
+  {
+    "name": "Fortune Suji 1 kg",
+    "category": "Atta-Flours",
+    "price": 58,
+    "mrp": 68,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🌾",
+    "img": "https://imgs.search.brave.com/c8hHzSCWcHySluQTMzM1dcTCT2HsaLD1CgQcnxEsK98/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFHYlZ2cTNNc0wu/anBn"
+  },
+  {
+    "name": "India Gate Basmati Rice Feast Rozzana 5 kg",
+    "category": "Rice-Grains",
+    "price": 460,
+    "mrp": 520,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/mNFVCuY7ne_fMb6zBqqBFD5LhkcRg_aSpuRDpMx05EE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9mcmVz/aGxlZS5pbi9jZG4v/c2hvcC9maWxlcy8x/MDA4NTIwX2FlNTgz/Zjg3LTlhZDYtNDE3/Zi1iMDdmLTk3YWI4/OWFiYmZkMF8xMDgw/eC5wbmc_dj0xNzU2/NzM0NzMw"
+  },
+  {
+    "name": "Daawat Rozana Super Basmati Rice 5 kg",
+    "category": "Rice-Grains",
+    "price": 420,
+    "mrp": 475,
+    "stock": 18,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/7rorB95Ncu9JctFmjHv2lUu3Ik7wCvwtKxRbmArJmeI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4y/LmNsZXZ1cC5pbi8y/OTk1MTAvMTMxMTIw/MjRfMTgyOTUyX1JF/Qy0xNzMxNTAyODYw/MjM2LmpwZWc_d2lk/dGg9NjAwJmZvcm1h/dD13ZWJw"
+  },
+  {
+    "name": "India Gate Basmati Rice Classic 1 kg",
+    "category": "Rice-Grains",
+    "price": 215,
+    "mrp": 245,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/nAt97aoEbzUfS4XSrg0vGbGV50RtKs-FyFw0N9tVPo8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnF1aWsuY29t/L2Nkbi9zaG9wL2Zp/bGVzL1NRMTAwNTUx/XzNfYjRlMzczMmMt/MzAzYy00OTJhLWJj/YTgtM2ViNzU5MWU0/MjljLmpwZz92PTE3/NzY4NDYxMjAmd2lk/dGg9MTQ0NQ"
+  },
+  {
+    "name": "Fortune Poha 500 g",
+    "category": "Rice-Grains",
+    "price": 45,
+    "mrp": 55,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🍚",
+    "img": "https://imgs.search.brave.com/mJXYayd8aQ2pG0e7iNXa7QRdjipgf-1AyyOasSF8v6Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly81Lmlt/aW1nLmNvbS9kYXRh/NS9TRUxMRVIvRGVm/YXVsdC8yMDI1LzMv/NDk0NjA3OTgyL01L/L0tGL0dYLzkxOTI5/MDEvZm9ydHVuZS10/aGljay1wb2hhLTUw/MGctNTAweDUwMC5q/cGc"
+  },
+  {
+    "name": "Amul Butter 500 g",
+    "category": "Dairy",
+    "price": 275,
+    "mrp": 295,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🧈",
+    "img": "https://imgs.search.brave.com/5e9Sy2YqOXvpudr-nVYXmDpu77yMN1Bp_W7Ugn4Ck08/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4x/Lmppb21hcnRqY3Au/Y29tL3YyL2NhdGFs/b2ctY2xvdWQvamlv/bWFyL3QucmVzaXpl/KHc6NTQwKS9pbWFn/ZXMvb3RoZS9lZ3Vy/aGsvLmovcGcvMDAw/MDAwMDAwNDkwMDAx/MzkyMS5qcGcuYzli/YTNiNjZmYi5qcGc"
+  },
+  {
+    "name": "Amul Cheese Slices 200 g",
+    "category": "Dairy",
+    "price": 140,
+    "mrp": 155,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🧀",
+    "img": "https://imgs.search.brave.com/ryK4KaQ9zusfrehHXk-XBy0XBQ7g7ff4RJP4a0ASpgY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cXVpY2twYW50cnku/aW4vY2RuL3Nob3Av/ZmlsZXMvSU1HLTE1/NjIuanBnP3Y9MTc1/Mzk1MTMyMCZ3aWR0/aD0yODg"
+  },
+  {
+    "name": "Amul Cheese Block 200 g",
+    "category": "Dairy",
+    "price": 130,
+    "mrp": 145,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🧀",
+    "img": "https://imgs.search.brave.com/W-K7Q5FB6rT9JUX0SsqFro36JQwxpBLQoARkl2-L6Ww/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnF1aWsuY29t/L2Nkbi9zaG9wL2Zp/bGVzL1NRMTAxNjgw/X0ZPUF81NTFhZWEw/Mi0zYmRmLTQ5Y2Ut/YWM0MS0wMWRiMzJl/MzU1YjQuanBnP3Y9/MTc3Njg0NzI0NyZ3/aWR0aD0xNDQ1"
+  },
+  {
+    "name": "Amul Fresh Malai Paneer 200 g",
+    "category": "Dairy",
+    "price": 90,
+    "mrp": 100,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🧀",
+    "img": "https://imgs.search.brave.com/6jEyp8Ph5350VyUtY7TXDFL-m_5PPwtNTjDfdkDmZBY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaW1r/aGFuZC5jb20vY2Ru/L3Nob3AvZmlsZXMv/NDAwOTY3NDdfNy1h/bXVsLW1hbGFpLWZy/ZXNoLXBhbmVlci5q/cGc_dj0xNzY5MDEw/ODc5JndpZHRoPTE5/NDY"
+  },
+  {
+    "name": "Amul Taaza Homogenised Toned Milk 1 L",
+    "category": "Dairy",
+    "price": 74,
+    "mrp": 80,
+    "stock": 35,
+    "unit": "pkt",
+    "emoji": "🥛",
+    "img": "https://imgs.search.brave.com/HOxkwKxhF5YpIIjT20Py_dA6yiBNCM61iM8B1w5PHao/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWd3/bG5zLmd1bWxldC5p/by9pbWFnZXMvcHJv/ZHVjdHMvMjIyMjg4/LTEuanBn"
+  },
+  {
+    "name": "Amul Mithaee Mate Condensed Milk 200 g",
+    "category": "Dairy",
+    "price": 64,
+    "mrp": 72,
+    "stock": 15,
+    "unit": "can",
+    "emoji": "🥫",
+    "img": "https://imgs.search.brave.com/Fz716cJqb6vp1YHOLzVduF84WuR8vMtwB_-aW_l91R0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFza2V0aHVudC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDYvYW11bC1t/aXRoYWktbWF0ZS1z/d2VldGVuZWQtY29u/ZGVuc2VkLW1pbGst/MjAwLWctdGluLTAt/MjAyMTAzMTUuanBn"
+  },
+  {
+    "name": "Nescafe Classic Instant Coffee 50 g",
+    "category": "Tea-Coffee",
+    "price": 195,
+    "mrp": 220,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "☕",
+    "img": "hhttps://imgs.search.brave.com/oo6IwL2TpFtUo--PlUhoSbrz7Ctp2ZQJqGGUow-QQgA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFza2V0aHVudC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMTIvbmVzY2Fm/ZS1jbGFzc2ljLWlu/c3RhbnQtY29mZmVl/LTUwLWctamFyLTAt/MjAyMDEwMjIuanBn"
+  },
+  {
+    "name": "BRU Instant Coffee 100 g",
+    "category": "Tea-Coffee",
+    "price": 220,
+    "mrp": 250,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "☕",
+    "img": "https://imgs.search.brave.com/dfQ8O7XfQNn-d4NWPyOH7I76Nnbg9zYwD844QNCXrxI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFza2V0aHVudC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMTIvYnJ1LWlu/c3RhbnQtY29mZmVl/LXBvd2Rlci0xMDAt/Zy0wLTIwMjAxMTE4/LmpwZw"
+  },
+  {
+    "name": "Wagh Bakri Premium Leaf Tea 500 g",
+    "category": "Tea-Coffee",
+    "price": 280,
+    "mrp": 315,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🍵",
+    "img": "https://imgs.search.brave.com/r0F5ezjCgqPSZAvxOq7ZyaANw4gnswaA_ermmCuFD4A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFza2V0aHVudC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDIvd2FnaC1i/YWtyaS1wcmVtaXVt/LWxlYWYtdGVhLTUw/MC1nLTAtMjAyMDEx/MTguanBn"
+  },
+  {
+    "name": "Bournvita Chocolate Health Drink 500 g",
+    "category": "Tea-Coffee",
+    "price": 240,
+    "mrp": 270,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🍫",
+    "img": "https://imgs.search.brave.com/h4TtIO8D7zOkTIylZacBVRtKk-VkBbzIKqq9bYY5X6E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9mcmVz/aGNlbnRyYWxncm9j/ZXJ5LmNvbS9jZG4v/c2hvcC9maWxlcy9D/YWRidXJ5X0JvdXJu/dml0YV9DaG9jb2xh/dGVfTnV0cml0aW9u/X0RyaW5rXzUwMF9H/TS53ZWJwP3Y9MTcz/ODg2MDk0MCZ3aWR0/aD0xNDQ1"
+  },
+  {
+    "name": "Horlicks Classic Malt 500 g",
+    "category": "Tea-Coffee",
+    "price": 250,
+    "mrp": 285,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🥛",
+    "img": "https://imgs.search.brave.com/AQGeeuyUwmS8x2DtEaCjxA7X4s7ZHAUOb_vZM908few/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9kb29r/YW4uY29tL2Nkbi9z/aG9wL2ZpbGVzL0hv/cmxpY2tzLUNsYXNz/aWMtTWFsdC01MDBn/LTUwMHB4LURvb2th/bl9lODhkOGU5My0w/MmEyLTQyY2YtOGIy/Yy01NGYwZGRlZTI4/NzNfdmJzYWk1LnBu/Zz92PTE3ODA3MzM5/ODYmd2lkdGg9MTQ0/NQ"
+  },
+  {
+    "name": "Maggi 2-Minute Noodles 420 g (6 Pack)",
+    "category": "Snacks-Instant",
+    "price": 84,
+    "mrp": 95,
+    "stock": 50,
+    "unit": "pkt",
+    "emoji": "🍜",
+    "img": "https://imgs.search.brave.com/qNg7IcbMFmCvs49IWhrcQzfk2y8FLF4VnJEvJurwR0U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/cXVpY2twYW50cnku/aW4vY2RuL3Nob3Av/ZmlsZXMvTWFnZ2lf/TWFzYWxhX0luc3Rh/bnRfTm9vZGxlc19Q/YWNrX29mXzZfNDIw/X2dfUXVpY2tfUGFu/dHJ5LmpwZz92PTE3/NTExMTUzMDImd2lk/dGg9MTIxNA"
+  },
+  {
+    "name": "Knorr Classic Mixed Vegetable Soup 43 g",
+    "category": "Snacks-Instant",
+    "price": 35,
+    "mrp": 42,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🍲",
+    "img": "https://imgs.search.brave.com/KPExZmTurMs3JKJIO3h1g6lMKDKxvIHikcajZ8D_H3M/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wcHNu/Y28uY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIzLzA3L0tu/b3JyLU1peGVkLVZl/Z2V0YWJsZS1Tb3Vw/LTQwZy1fMV8ud2Vi/cA"
+  },
+  {
+    "name": "Kissan Fresh Tomato Ketchup 950 g",
+    "category": "Snacks-Instant",
+    "price": 130,
+    "mrp": 150,
+    "stock": 20,
+    "unit": "btl",
+    "emoji": "🍅",
+    "img": "https://imgs.search.brave.com/gBpqUJDwqDyennpcmM8lpWDNoR-TdpYUq6iEqvSeeWI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDE5MnVxdFZmd0wu/anBn"
+  },
+  {
+    "name": "Kissan Mixed Fruit Jam 500 g",
+    "category": "Snacks-Instant",
+    "price": 180,
+    "mrp": 205,
+    "stock": 18,
+    "unit": "pkt",
+    "emoji": "🍓",
+    "img": "https://imgs.search.brave.com/yVoplhpUvj794Ck15r2Lkla0HUIwlhs4CCCiGTx1qV8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9vYmpl/Y3RzdG9yYWdlLmFw/LWh5ZGVyYWJhZC0x/Lm9yYWNsZWNsb3Vk/LmNvbS9uL2F4ZzI5/d2hjbWhiMy9iL3Ri/bi1wcm9kLWFzc2V0/cy9vL1BST0RfSU1H/LzEwMzY3NTg2NV8x/LndlYnA"
+  },
+  {
+    "name": "Parle-G Original Gluco Biscuits 800 g",
+    "category": "Biscuits-Cookies",
+    "price": 75,
+    "mrp": 85,
+    "stock": 45,
+    "unit": "pkt",
+    "emoji": "🍪",
+    "img": "https://imgs.search.brave.com/-j0ha7cbX_ETCckEPgd8czsObunhI0KZumeyuXkphxY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFza2V0aHVudC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDEvcGFybGUt/Zy1vcmlnaW5hbC1n/bHVjb3NlLWJpc2N1/aXRzLTgwMC1nLTAt/MjAyMDExMTguanBn"
+  },
+  {
+    "name": "Britannia Good Day Cashew 600 g",
+    "category": "Biscuits-Cookies",
+    "price": 120,
+    "mrp": 140,
+    "stock": 35,
+    "unit": "pkt",
+    "emoji": "🍪",
+    "img": "https://imgs.search.brave.com/UMYiNhGy8dvHGZ-BEe4l6We8ryYrfBt4ef98Hx_QFzY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/Z3Jvc3RhLmluL3B1/YmxpYy9zdG9yYWdl/L2FwcC9wdWJsaWMv/aW1hZ2VzL3Byb2R1/Y3RzL2xhcmdlLzE1/ODQwOTc0NTMyMDAt/Z29vZC1kYXktY2Fz/aGV3LWNvb2tpZXMt/YnJpdGFubmlhLW9y/aWdpbmFsLWltYWZj/ejJ5eXNmYjgzaHQu/anBlZw"
+  },
+  {
+    "name": "Britannia Marie Gold 1 kg",
+    "category": "Biscuits-Cookies",
+    "price": 140,
+    "mrp": 160,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🍪",
+    "img": "https://imgs.search.brave.com/fG2CEgOmwqPblwqIzVw-Uv2rTRtOthn7h9O9cE7Dsow/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFmYlozVkkxNEwu/anBn"
+  },
+  {
+    "name": "Oreo Original Vanilla Creme Biscuits 300 g",
+    "category": "Biscuits-Cookies",
+    "price": 85,
+    "mrp": 100,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🍪",
+    "img": "https://imgs.search.brave.com/xGbWE4fjqBqCYZFip-KsBZhmErsU5Y-HsoJeR908Qh8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hZGQy/YmFnLmluL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzAxL0Nh/ZGJ1cnktT1JFTy1P/cmlnaW5hbC1WYW5p/bGxhLTN4MTAwLWcu/anBn"
+  },
+  {
+    "name": "Haldiram's Nagpur Bhujia 1 kg",
+    "category": "Namkeen-Snacks",
+    "price": 270,
+    "mrp": 310,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🥨",
+    "img": "https://imgs.search.brave.com/EAmjJlzuca8OCcRTkjBx8TixNQOQjpOazOPRkN0xZ7U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NzEwU1Zka2U2akwu/anBn"
+  },
+  {
+    "name": "Haldiram's All in One Mixture 400 g",
+    "category": "Namkeen-Snacks",
+    "price": 115,
+    "mrp": 130,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🥨",
+    "img": "https://imgs.search.brave.com/Mb4gDhLOEnfKKWVycOAXOJk9QJMCcHxTnbWmJhHtl9Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbmRp/YW5zcGljZXNhbmRn/cm9jZXJpZXMuY29t/L2Nkbi9zaG9wL2Zp/bGVzL2FsbGlub25l/LndlYnA_dj0xNzQ4/NTE0NzI4JndpZHRo/PTE5NDY"
+  },
+  {
+    "name": "Haldiram's Khatta Meetha 400 g",
+    "category": "Namkeen-Snacks",
+    "price": 110,
+    "mrp": 125,
+    "stock": 28,
+    "unit": "pkt",
+    "emoji": "🥨",
+    "img": "https://imgs.search.brave.com/oAEuVUmj9t0Mo0I7Mfhs9yj06muLm3UR12Zr39zwgs8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zd2Fn/YXRncm9jZXJ5LmNv/bS9jZG4vc2hvcC9m/aWxlcy9raGF0dGEt/bWVldGhhLnBuZz92/PTE3MjQyNDg2MTUm/d2lkdGg9MTQ0NQ"
+  },
+  {
+    "name": "Dabur Honey 500 g",
+    "category": "Daily Needs",
+    "price": 225,
+    "mrp": 260,
+    "stock": 20,
+    "unit": "btl",
+    "emoji": "🍯",
+    "img": "https://imgs.search.brave.com/zx_vW5qhoG-VY2kqLEp4MDl7HgW2pGl5DaiOBxbtJLc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmV0bWVkcy50ZWNo/L3YyL3BsYWluLWNh/a2UtODYwMTk1L25l/dG1lZC93cmtyL3By/b2R1Y3RzL3BpY3R1/cmVzL2l0ZW0vZnJl/ZS9yZXNpemUtdzo0/MDAvdkVub2o3d2do/SS1kYWJ1cl9ob25l/eV81MDBfZ21fMzcy/NThfMF8zLmpwZw"
+  },
+  {
+    "name": "Dabur Chyawanprash 1 kg",
+    "category": "Daily Needs",
+    "price": 395,
+    "mrp": 445,
+    "stock": 15,
+    "unit": "pkt",
+    "emoji": "🍯",
+    "img": "https://imgs.search.brave.com/8Yl6jOTOQbXsUtOLf413C9GA-eolK5etrqqX3upfqos/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jcGlt/Zy50aXN0YXRpYy5j/b20vMDc0MDEwMTAv/Yi80L0RhYnVyLUNo/eWF3YW5wcmFzaC0x/a2cuanBn"
+  },
+  {
+    "name": "Surf Excel Easy Wash Detergent Powder 1 kg",
+    "category": "Cleaning-Household",
+    "price": 140,
+    "mrp": 160,
+    "stock": 35,
+    "unit": "pkt",
+    "emoji": "🧺",
+    "img": "https://imgs.search.brave.com/fRohj63RGKnnsV9FZmD8DnIdfy-JRz8z1rY3GoqQKaI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ydWtt/aW5pbTIuZmxpeGNh/cnQuY29tL2ltYWdl/LzgwMC84MDAveGlm/MHEvd2FzaGluZy1w/b3dkZXIvdC9wLzAv/MS1lYXN5LXdhc2gt/ZGV0ZXJnZW50LXBv/d2Rlci0xa2ctc3Vy/Zi1leGNlbC1vcmln/aW5hbC1pbWFoeWJt/MjZoZHVqdG5lLmpw/ZWc_cT05MA"
+  },
+  {
+    "name": "Ariel Matic Front Load Detergent Powder 1 kg",
+    "category": "Cleaning-Household",
+    "price": 275,
+    "mrp": 315,
+    "stock": 20,
+    "unit": "pkt",
+    "emoji": "🧺",
+    "img": "https://imgs.search.brave.com/MDw0u8d7J2dmEQFiWun8HjFeZWz6DCp41lSppY55Jpo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnF1aWsuY29t/L2Nkbi9zaG9wL2Zp/bGVzL1NRMTAyNTQ4/X0ZPUF9kYTFhNzYz/NC01NjVjLTRjZWEt/OTY1NS1lMmQyMWMy/ZTMwNDEuanBnP3Y9/MTc3Njg0NTY5NiZ3/aWR0aD0xNDQ1"
+  },
+  {
+    "name": "Tide Plus Extra Power Lemon Detergent Powder 1 kg",
+    "category": "Cleaning-Household",
+    "price": 125,
+    "mrp": 145,
+    "stock": 40,
+    "unit": "pkt",
+    "emoji": "🧺",
+    "img": "https://imgs.search.brave.com/BW54TvGaMsiO5FVP7YdPflbsZV9j0ndySD_1557c-NM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RhcnF1aWsuY29t/L2Nkbi9zaG9wL2Zp/bGVzL1NRMTAyNDk0/XzRfMWM1YjU3NjQt/Yjc1OS00MzJjLTli/NWItYTFlOTQ4YjRm/NmIyLmpwZz92PTE3/NzY4NDgxNjgmd2lk/dGg9MTQ0NQ"
+  },
+  {
+    "name": "Vim Dishwash Liquid Gel Lemon 750 ml",
+    "category": "Cleaning-Household",
+    "price": 165,
+    "mrp": 195,
+    "stock": 30,
+    "unit": "btl",
+    "emoji": "🧼",
+    "img": "https://imgs.search.brave.com/EWL3fpO0RCKu7r2v8DLgTTXyyXcOnqO1jMLNHsEZP6Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/MzF3aXlIYWN6OEwu/anBn"
+  },
+  {
+    "name": "Vim Dishwash Bar 300 g (Pack of 3)",
+    "category": "Cleaning-Household",
+    "price": 60,
+    "mrp": 70,
+    "stock": 50,
+    "unit": "pkt",
+    "emoji": "🧼",
+    "img": "https://imgs.search.brave.com/c8H5QP4U04EOfkUsxJY_STiknAxZxTsy8pX73o5R878/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NTFDbFgwbXpGa0wu/anBn"
+  },
+  {
+    "name": "Harpic Power Plus Toilet Cleaner Original 1 L",
+    "category": "Cleaning-Household",
+    "price": 210,
+    "mrp": 240,
+    "stock": 25,
+    "unit": "btl",
+    "emoji": "🧴",
+    "img": "https://imgs.search.brave.com/BAYgxUyk7_6GTqwAbAA3g47kp9d4-e0Ndt4LdmE4Z2A/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vSGFy/cGljLVBvd2VyLVBs/dXMtT3JpZ2luYWwt/MUxfNWU5OTAwYzAt/ZmE1MS00MjBkLWFm/ZTAtY2YzZTkxMWFi/MzQ2LmJlOWMxNTA5/OWU1YTEyNjU0ZDFi/OGEwNjJiZjBkNjhl/LmpwZWc_b2RuSGVp/Z2h0PTU3MyZvZG5X/aWR0aD01NzMmb2Ru/Qmc9RkZGRkZG"
+  },
+  {
+    "name": "Lizol Disinfectant Surface Floor Cleaner Citrus 1 L",
+    "category": "Cleaning-Household",
+    "price": 220,
+    "mrp": 250,
+    "stock": 25,
+    "unit": "btl",
+    "emoji": "🧴",
+    "img": "https://imgs.search.brave.com/NZnfVPkVrOlk6NixQD9nq1kn5OOcpMZEtP3jersuLro/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9naGFy/c3R1ZmYuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzA0/LzU5ODQzYS5qcGc"
+  },
+  {
+    "name": "Colgate Strong Teeth Dental Toothpaste 500 g",
+    "category": "Personal Care",
+    "price": 275,
+    "mrp": 310,
+    "stock": 30,
+    "unit": "pkt",
+    "emoji": "🪥",
+    "img": "https://imgs.search.brave.com/UsfoFhSssEGYoiYnDMV23dLuHojqNgSwRoYMcZd0hyE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jZG4uc2hweS5p/bi8zNjMzMTYvU0tV/LTA0OTZfMC0xNzUx/MTc2MDkxMTg5LnBu/Zz93aWR0aD02MDAm/Zm9ybWF0PXdlYnA"
+  },
+  {
+    "name": "Dettol Original Germ Protection Bathing Soap 125 g (Pack of 4)",
+    "category": "Personal Care",
+    "price": 220,
+    "mrp": 250,
+    "stock": 25,
+    "unit": "pkt",
+    "emoji": "🧼",
+    "img": "https://imgs.search.brave.com/uJOebfb-mG-xbumWN4AM1c6sISMtRMn4-zwQBmiZ6bU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFUN1RkcHBuSUwu/anBn"
+  }
+]
